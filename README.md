@@ -4,9 +4,11 @@
 
 This project is refactoring existing code (improving it without changing what it does) to meet a certain set of standards or implementing a new technology to refactor an existing site to make it more accessible.
 
-## Installation
 
-N/A
+## Installation
+This is the link to the website:
+https://isaiasd18.github.io/marketing_agency_challenge/
+
 
 ## Usage
 
